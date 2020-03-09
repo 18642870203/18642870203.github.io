@@ -50,7 +50,7 @@ postPatterns: 'circuitBoard'
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
   email: 'mailto:fushuang@cisco.com'
-  weibo: 'https://www.weibo.com/u/2125003401'
+  weibo: 'https//www.weibo.com/u/2125003401'
   linkedin: 'https://www.linkedin.com/in/fusen-huang-cv'
   
 
