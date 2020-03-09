@@ -11,7 +11,7 @@ baseurl: ''
 nav:
   home: '/'
   tags: '/tags.html'
-  UOJ: 'https://18642870203.github.io/'
+
 
 # Footer
 footer:
