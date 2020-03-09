@@ -2,7 +2,7 @@
 title: "Cyanoxygen's Garage"
 description: '钻研，学习。即使是三分钟热度，也会有三分钟的收获。'
 keyword: 'Tech basics'
-url: 'https://blog.cyanoxygen.xyz' # your host
+url: 'https://18642870203.github.io/' # your host
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
@@ -11,7 +11,7 @@ baseurl: ''
 nav:
   home: '/'
   tags: '/tags.html'
-  UOJ: 'http://ojtest.cyanoxygen.xyz/'
+  UOJ: 'https://18642870203.github.io/'
   Gitlab: 'https://gitlab.cyanoxygen.xyz/'
 
 # Footer
